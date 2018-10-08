@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DbdRandomizer.iml" filepath="$PROJECT_DIR$/DbdRandomizer.iml" />
+      <module fileurl="file://C:\Users\juliette\Documents\GitHub\DbdRandomizerAndroid\DbdRandomizer.iml" filepath="C:\Users\juliette\Documents\GitHub\DbdRandomizerAndroid\DbdRandomizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DbdRandomizerAndroid.iml" filepath="$PROJECT_DIR$/DbdRandomizerAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
