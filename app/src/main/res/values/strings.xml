@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DbdRandomizer</string>
+    <string name="action_settings">Settings</string>
+    <string name="contact">"Made with love by MissBipBip :) "</string>
+    <string name="randomsurvivor">SURVIVOR</string>
+    <string name="randomkiller">KILLER</string>
+    <string name="title">DEAD BY DAYLIGHT\\nRANDOMIZER</string>
+</resources>
